@@ -1,5 +1,6 @@
 # BINWALK
 
+* **Author:** Dalemazza
 * **Category:** Forensics
 * **Points:** 30
 * **level:** Easy
