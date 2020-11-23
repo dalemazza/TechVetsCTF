@@ -15,7 +15,8 @@ https://mega.nz/#!qbpUTYiK!-deNdQJxsQS8bTSMxeUOtpEclCI-zpK7tbJiKV0tXY
 From the name of the challenge we can presume we use the **binwalk** program.
 
 >What is binwalk?
->Binwalk is used to extract embedded data from a file, this can often be an image with a hidden jpg, png within.
+>
+Binwalk is used to extract embedded data from a file, this can often be an image with a hidden jpg, png within.
 
 Let's see if binwalk finds anything.
 ```
